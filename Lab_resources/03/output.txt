@@ -1,0 +1,8 @@
+hi => 6
+my => 3
+name => 3
+is => 3
+kashif => 3
+ali => 3
+not => 1
+actually => 1
